@@ -1,0 +1,2 @@
+cd ~/1449/Linux
+mono --server --gc=sgen -O=all ./TerrariaServer.exe
