@@ -1,0 +1,31 @@
+#!/bin/bash
+
+RED='\033[1;31m'
+BLUE='\033[1;34m'
+CYAN='\033[1;36m'
+YELLOW='\033[1;33m'
+WHITE='\033[1;37m'
+RESET='\033[0m'
+
+clear
+
+kamekameha() {
+    echo -e "${RESET}"
+    sleep 0.4 && echo "     K"
+    sleep 0.4 && echo "     A"
+    sleep 0.4 && echo -e "     ${WHITE}M"
+    sleep 0.4 && echo -e "     ${WHITE}E"
+    sleep 0.4 && echo -e "     ${BLUE}H"
+    sleep 0.4 && echo -e "     ${BLUE}A"
+    sleep 0.4 && echo -e "     ${BLUE}M"
+    sleep 0.4 && echo -e "     ${BLUE}E"
+    sleep 0.4 && echo -en "     ${YELLOW}H"
+    for i in {1..30}; do
+        echo -n "A"
+        sleep 0.03
+    done
+    echo -e "${RESET}!!!"
+    sleep 1
+}
+
+kamekameha
