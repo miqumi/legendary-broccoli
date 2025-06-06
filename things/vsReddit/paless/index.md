@@ -4,6 +4,7 @@ The above person's comment implies that the mastered super saiyan has a differen
 Quoting themselves,  
 > During the training period before the cell games, Goku had Gohan and himself train by just chilling in SS form. It was a deliberate design choice to give them a calming pale yellow hue that we hadn’t really seen before. The idea was that SS is normally a battle mode, but by learning to make it feel like base form, you’d gain significant chi control. Idk if there was an official name for this but I see most people call it perfect control.
 
+ㅤ
 Below are some pictures from the officially colored Dragon Ball manga...  
 ㅤ  
 ㅤ  
@@ -67,6 +68,14 @@ Bonus Panel \(one of my favorites too!!\):
 ㅤ  
 ㅤ  
 ![image](https://github.com/user-attachments/assets/6b7cc62a-9eca-48d6-8195-b2c78d4c0a32)  
+ㅤ  
+ㅤ  
+ㅤ  
+Also below is Super Saiyan vs. Frieza FROM THE ANIME... without his aura.  
+ㅤ  
+ㅤ  
+ㅤ  
+![image](https://github.com/user-attachments/assets/3c178a46-11e3-4625-bce6-dcb019bd903f)
 ㅤ  
 ㅤ  
 ㅤ  
