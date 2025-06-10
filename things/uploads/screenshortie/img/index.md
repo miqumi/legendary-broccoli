@@ -1,3 +1,6 @@
+(`right click > save image as` if you may)
+
+
 ![screenshortie10.png.file.png](../screenshortie10.png.file.png)  
 ![screenshortie13.png.file.png](../screenshortie13.png.file.png)  
 ![screenshortie16.png.file.png](../screenshortie16.png.file.png)  
