@@ -1,0 +1,25 @@
+animate() {
+    for letter in "$@"; do
+        echo -n "$letter"
+        sleep 0.2
+    done
+    echo
+}
+
+animate "K" "A"
+sleep 0.5
+animate "M" "E"
+sleep 0.5
+animate "H" "A"
+sleep 0.5
+animate "M" "E"
+sleep 0.5
+
+echo -n "H"
+for ((i=0; i<30; i++)); do
+    echo -n "A"
+    sleep 0.05
+done
+
+echo ""
+
